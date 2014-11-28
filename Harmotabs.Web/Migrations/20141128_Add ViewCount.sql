@@ -1,0 +1,1 @@
+﻿ALTER TABLE Tablature ADD ViewCount bigint NOT NULL
